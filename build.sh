@@ -1,0 +1,1 @@
+mvn clean compile package -Dmave.test.skip -DskipTests -Dmaven.javadoc.skip=true
